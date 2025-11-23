@@ -20,7 +20,7 @@ export const allianceData: AllianceData = {
       description: "Tessellate has partnered with Bit Complete, a leading technical development agency, to help portfolio companies accelerate growth through world-class engineering and operational excellence."
     },
     {
-      title: "Product & Software Development",
+      title: "Product Development",
       description: "Modernize your tech stack and integrate AI-driven features tailored to your vertical: intelligent workflows, automation, and data analytics that drive customer value."
     },
     {
@@ -35,7 +35,8 @@ export const allianceData: AllianceData = {
   logos: [
     "/images/logos/google-logo.webp",
     "/images/logos/slack-logo.png",
-    "/images/logos/youtube-logo.svg"
+    "/images/logos/youtube-logo.svg",
+    "/images/logos/league_logo.png"
   ],
   note: "Bit Complete's team of 35+ seasoned software developers have worked with both Fortune 500 companies and high growth start-ups to build products that matter."
 };
