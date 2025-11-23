@@ -952,17 +952,24 @@ h1, h2, h3, h4, h5, h6 {
   #team .team__grid {
     flex-direction: column;
     overflow-x: visible;
+    overflow-y: visible;
     gap: var(--space-3);
+    align-items: stretch;
   }
   #team .member { 
-    flex: none;
+    flex: 0 1 auto;
     max-width: 100%; 
     width: 100%;
+    min-height: auto;
+    height: auto;
     padding: var(--space-4) var(--space-3);
+    overflow: visible;
   }
   #team .member__bio {
     word-wrap: break-word;
     overflow-wrap: break-word;
+    overflow: visible;
+    white-space: normal;
   }
 }
 #team .member {
