@@ -12,7 +12,7 @@ export const teamMembers: TeamMember[] = [
     role: "Founder, Investing Partner",
     bio: "Darren oversees Tessellate Software's investment strategy, bringing more than ten years of experience across management consulting, private equity, and technology. He is a Partner and Managing Director at Boston Consulting Group. Before that, he spent time in private equity at Birch Hill Equity Partners and worked as an Engagement Manager at McKinsey & Company.",
     linkedin: "https://www.linkedin.com/in/darrenrcole/",
-    image: "/images/team/darren-cole.jpeg"
+    image: "/images/team/darren-cole.png"
   },
   {
     name: "Felix Li",
